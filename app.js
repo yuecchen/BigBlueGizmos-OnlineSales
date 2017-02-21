@@ -13,7 +13,7 @@ var express = require('express');
 var cfenv = require('cfenv'); 
 
 // create a new express server
-var app = express();
+var app = express(); 
 
 // serve the files out of ./public as our main files
 app.use(express.static(__dirname + '/public'));

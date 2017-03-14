@@ -1,4 +1,5 @@
 /*eslint-env node*/
+require('ibmapm');
 
 //------------------------------------------------------------------------------
 // hello world app is based on node.js starter application for Bluemix

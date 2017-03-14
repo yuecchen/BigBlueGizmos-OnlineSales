@@ -7,6 +7,7 @@
 	},
 	"dependencies": {
 		"express": "4.13.x",
+                "ibmapm":"0.1.x",
 		"cfenv": "1.0.x"
 	},
 	"repository": {},
